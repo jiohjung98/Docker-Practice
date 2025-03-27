@@ -80,6 +80,10 @@ Docker은 기존의 OS위에서 Container Engine을 통해 가상환경을 만�
 \- public 저장소 : Docker Hub, QUAY
 
 \- private 저장소 : AWS ECR 혹은 Docker Registry를 직접 띄워서 비공개로 사용하는 방법 등이 존재
+<br/><br/>
+cf) 이미지 배포하는 법
+![image](https://github.com/user-attachments/assets/1214688a-b720-4f21-86fa-987196478be4)
+Container Registry라는 곳에 Push와 Pull을 통해 image를 주거나 받거나 한다.
 
 <br/><br/>
 ### **도커 이미지와 도커 컨테이너**
