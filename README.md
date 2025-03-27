@@ -12,6 +12,10 @@
 ### **Vitrual Machine(가상 머신) vs Docker Container(도커 컨테이너)**
 ![image](https://github.com/user-attachments/assets/848d2fb9-3283-456c-9212-e5fccf4fcad6)
 <br/><br/>
+
+VM은 가상환경을 만들때마다 OS를 설치하고 그 위에 개발한다.<br/>
+Docker은 기존의 OS위에서 Container Engine을 통해 가상환경을 만들어 개발한다.
+<br/><br/>
 #### **가상 머신(Virtual Machine)**
 
 ![image](https://github.com/user-attachments/assets/b4377783-fe32-4118-ba0a-8db18c00d31b)
